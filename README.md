@@ -1,4 +1,5 @@
-# Advanced Mathematics MSc. UB
+# Msc Advanced Mathematics at University of Barcelona
 
-This repository corresponds to my work done during 2022-2024 in the Advanced Mathematics Master. I divided the work in subjects
-in which the grade is added for each project. Moreover I add my final Bachelor's thesis and my final Master's thesis.
+Welcome to my GitHub repository dedicated to my Master's program in Advanced Mathematics at UB. In this repository, you will find a collection of my coursework and projects from my academic journey. This repository serves as a comprehensive portfolio of my work, showcasing my dedication to mastering the main basis and principles from the different areas of mathematics
+
+
