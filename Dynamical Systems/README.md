@@ -6,7 +6,7 @@ The assignment of this subject was based on multiple deliviries. You can find tw
    + Dynamical Systems on the complex plane. Riemann surfaces and iteration of holomorphic functions.Normal families: The Fatou and Julia sets. Local theory: periodic points and linearization. Global theory: connected components of the Fatou set. Parameter spaces: the Mandelbrot set and main conjectures.
 
 2. **N-dimensional dynamics**
-   + yapunov stability.
+   + Lyapunov stability.
    + Local theory: Hartman’s Theorem, Sternberg’s Theorem and invariant manifolds.
    + Normal forms and bifurcations.
    + Hyperbolic dynamics.
