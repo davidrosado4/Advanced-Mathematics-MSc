@@ -12,4 +12,4 @@ The assignment of this subject was based on multiple deliviries. You can find tw
    + Hyperbolic dynamics.
 
 
-**Marks:**
+**Final Mark 10 (MH)**
